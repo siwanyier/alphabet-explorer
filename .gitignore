@@ -1,0 +1,17 @@
+.env
+.env.*
+!.env.example
+.openai/
+.sites-*/
+node_modules/
+*.log
+*.pem
+*.key
+*.p12
+*.pfx
+*.sqlite*
+*.db
+backups/
+exports/
+.DS_Store
+Thumbs.db
